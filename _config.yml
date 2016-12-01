@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name:Kookley
+name: Kookley
 
 # Short bio or description (displayed in the header)
-description:I'm a Android developer.
+description: I'm a Android developer.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:http://img.9xiao.com/User/Default.jpg
+avatar: http://img.9xiao.com/User/Default.jpg
 
 #
 # Flags below are optional
